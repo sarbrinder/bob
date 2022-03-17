@@ -1,0 +1,80 @@
+/* Background color  */
+
+.bg-pink {
+    background-color: #d12a58;
+}
+
+.bg-gray {
+    background-color: #d7d7d7;
+}
+
+
+
+/* Text color  */
+
+.text-pink {
+    color: #d12a58;
+}
+
+.text-green {
+    color: #38cc38;
+}
+
+.text-white {
+    color: #ffffff;
+}
+
+/* Border */
+
+.border-gray {
+    border: 1px solid #d7d7d7;
+}
+
+.border-left {
+    border-left: 1px solid #d7d7d7;
+}
+
+/* Font Size */
+.font-18 {
+    font-size: 18px;
+}
+
+.font-24 {
+    font-size: 24px;
+}
+
+.font-30 {
+    font-size: 30px;
+}
+
+.font-36 {
+    font-size: 36px;
+}
+
+.font-48 {
+    font-size: 48px;
+}
+
+.font-72 {
+    font-size: 72px;
+}
+
+/* input */
+label {
+    font-weight: 400;
+}
+
+.d-input,
+.d-textarea {
+    border: 1px solid #d1d1d1;
+    background: #ececec;
+    height: 48px;
+}
+
+.select-arrow {
+    background: #ececec url('../images/dwon.png') no-repeat 98% 20px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+

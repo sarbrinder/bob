@@ -1,0 +1,12 @@
+<?php
+namespace App\Helpers;
+use Session;
+use DB;
+use Mail;
+class AppHelper {
+
+		public static function getMainHeader()
+		{  
+		    echo view('commonview.mainheader')->__tostring();
+			}
+			?>
